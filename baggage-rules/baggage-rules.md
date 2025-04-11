@@ -4,25 +4,25 @@
 
 ## Table of Contents
 
-1. [Introduction]
-2. [Scope and Applicability]
-3. [Definitions]
-4. [Carry-On Baggage Policy]
-    - [Allowed Dimensions and Weight]
-    - [Restricted Items]
-5. [Checked Baggage Policy]
-    - [Dimension and Weight Limits]
-    - [Fee Structure]
-6. [Special Baggage Items]
-    - [Sports Equipment]
-    - [Musical Instruments]
-    - [Fragile or High-Value Items]
-7. [Prohibited Items]
-8. [Baggage Handling and Security]
-9. [Delayed, Damaged, or Lost Baggage Procedures]
-10. [Customer Service and Exception Handling]
-11. [Regulatory Compliance]
-12. [Appendices and Revision History]
+1. Introduction
+2. Scope and Applicability
+3. Definitions
+4. Carry-On Baggage Policy
+    - Allowed Dimensions and Weight
+    - Restricted Items
+5. Checked Baggage Policy
+    - Dimension and Weight Limits
+    - Fee Structure
+6. Special Baggage Items
+    - Sports Equipment
+    - Musical Instruments
+    - Fragile or High-Value Items
+7. Prohibited Items
+8. Baggage Handling and Security
+9. Delayed, Damaged, or Lost Baggage Procedures
+10. Customer Service and Exception Handling
+11. Regulatory Compliance
+12. Appendices and Revision History
 
 ---
 
